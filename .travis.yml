@@ -8,7 +8,7 @@ cache:
 deploy:
   provider: heroku
   api_key:
-    secure: {PUT_YOUR_OWN_API_KEY_HERE}
+    secure: {177bc493-27c8-49d8-8c1b-031a141191ae}
   app: secret-eyrie-40298
   on:
     repo: nagck/unittest-travis-heroku
